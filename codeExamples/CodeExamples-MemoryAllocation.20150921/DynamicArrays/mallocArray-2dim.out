@@ -1,0 +1,19 @@
+$ bin/mallocArray-2dim.exe
+Base pointer da at 0028FF04 points to 007E1828
+da[0] at 007E1828
+da[0][0] = 11 at 007E1840
+da[0][1] = 12 at 007E1844
+da[0][2] = 13 at 007E1848
+da[0][3] = 14 at 007E184C
+
+da[1] at 007E182C
+da[1][0] = 21 at 007E1858
+da[1][1] = 22 at 007E185C
+da[1][2] = 23 at 007E1860
+da[1][3] = 24 at 007E1864
+
+da[2] at 007E1830
+da[2][0] = 31 at 007E1870
+da[2][1] = 32 at 007E1874
+da[2][2] = 33 at 007E1878
+da[2][3] = 34 at 007E187C
